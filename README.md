@@ -1,0 +1,2 @@
+# Novelsort
+novelsort algorithm
